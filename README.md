@@ -27,7 +27,7 @@ To use Java Knowledge quiz application, follow these steps:
 ![image](https://github.com/adini6/Java-Knowledge-Quiz/assets/28551058/ac4c6477-225c-4dd1-a8b0-9fca2d09d4b2)
 
 ## Credits
-Completed by Abdikalik Dini with starter code provided OSUBOOTCAMP.
+Completed by Abdikalik Dini with starter code provided OSUBOOTCAMP git@git.bootcampcontent.com:Ohio-State-University/OSU-VIRT-FSF-PT-04-2023-U-LOLC.git.
 
 
 
