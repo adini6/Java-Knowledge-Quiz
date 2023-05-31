@@ -34,9 +34,19 @@ button:hover {
   display: block;
 }
 
+#choices {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  width: 200px;
+  
+}
+
+
 input[type="text"] {
   font-size: 100%;
 }
+
 
 ol {
   padding-left: 0px;
